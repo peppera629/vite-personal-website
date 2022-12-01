@@ -1,6 +1,6 @@
 {
-  "username": "Chieh Tu",
-  "context": "Hi! there",
+  "username": "Peppera",
+  "context": "LMAO why are you here",
   "socialsList": [
     {
       "name": "Facebook",
@@ -20,8 +20,8 @@
     }
   ],
   "style": {
-    "backgroundLinerColor": ["#B1B2FF", "#EEF1FF"],
-    "fontColor": "#2c3e50",
+    "backgroundLinerColor": ["#03d7fc", "#035efc"],
+    "fontColor": "#ffffff",
     "profileBorderColor": "#2c3e50",
     "button": {
       "backgroundColor": "#2c3e50",
